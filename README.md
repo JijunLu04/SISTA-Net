@@ -32,3 +32,14 @@ Comparison of reconstruction performance across different sampling rates.
 Experimental results on real-world underwater environment.
 
 ---
+
+## 📖 Citation
+If you find our work useful, please consider citing:
+
+```bibtex
+@article{lu2026compressive,
+  title={Compressive sensing inspired self-supervised single-pixel imaging},
+  author={Lu, Jijun and Chen, Yifan and Chen, Libang and Zhou, Yiqiang and Zheng, Ye and Chen, Mingliang and Sun, Zhe and Li, Xuelong},
+  journal={arXiv preprint arXiv:2603.29732},
+  year={2026}
+}
